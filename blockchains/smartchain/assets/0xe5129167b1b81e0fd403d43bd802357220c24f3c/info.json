@@ -3,9 +3,11 @@
  "website": "http://usdtzed.com",
  "description": "Utility token",
  "explorer": "https://bscscan.com/address/0xe5129167b1b81e0fd403d43bd802357220c24f3c",
+ "telegram": "https://t.me/usdtz_official",
+ "reddit": "https://www.reddit.com/r/CryptoHelp/comments/1nzj7ou/usdtz/",
  "type": "BEP20",
  "symbol": "USDT.z",
  "decimals": 18,
  "status": "active",
- "id": "my-token"
+ "id": "ERC20"
 }
